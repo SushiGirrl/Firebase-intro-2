@@ -1,0 +1,26 @@
+/*
+Imagine your are running a meal ordering website.
+Orders come in from the web and we need to store them in a json file.
+Create a json file with two orders that contain at least these things:
+Order name
+Order id
+Price
+List of drinks
+Order extras (fx cheese, lettuce etc.)
+*/
+[
+  {
+    "order name": "Burger",
+    "order id": "3456",
+    "Price": 95,
+    "list of drinks": ["cola", "water", "beer"],
+    "order extras": ["cheese", "bacon"]
+  },
+  {
+    "order name": "Burger",
+    "order id": "3457",
+    "Price": 95,
+    "list of drinks": ["cola", "water", "beer"],
+    "order extras": ["cheese", "bacon"]
+  }
+]
